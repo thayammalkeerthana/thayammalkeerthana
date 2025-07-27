@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thayammal keerthana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [www.keerthana.com](www.keerthana.com)
+- 👨‍💻 My Portfolio : [www.keerthana.com](www.keerthana.com)
 
-- 💬 Ask me aboutFront-End Developer with a Passion for Excellence As a Front-End Developer with 3+ years of experience, I specialize in creating scalable, user-focused applications using React.js, JavaScript, and modern UI libraries. I believe in writing clean, maintainable code that not only works beautifully but also scales efficiently. My journey in web development has taught me that the best applications are built with a deep understanding of user needs, technical excellence, and a collaborative spirit. I'm always eager to learn new technologies and tackle challenging problems. **React,next.js,MERN**
+- 💬 Front-End Developer with a Passion for Excellence As a Front-End Developer with 3+ years of experience, I specialize in creating scalable, user-focused applications using React.js, JavaScript, and modern UI libraries. I believe in writing clean, maintainable code that not only works beautifully but also scales efficiently. My journey in web development has taught me that the best applications are built with a deep understanding of user needs, technical excellence, and a collaborative spirit. I'm always eager to learn new technologies and tackle challenging problems. **React,next.js,MERN**
 
-- 📫 How to reach me **thayammalkeerthana@gmail.com**
+- 📫Reach me : **thayammalkeerthana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
